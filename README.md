@@ -1,4 +1,4 @@
-# test_project
+# Flutter-Google-Study-Jams
 
 A new Flutter project.
 
