@@ -1,6 +1,6 @@
 # Flutter-Google-Study-Jams
 
-A new Flutter project.
+A new Flutter project made in the Makkah Flutter Study Jam on 18 Jan 2019.
 
 ## Getting Started
 
