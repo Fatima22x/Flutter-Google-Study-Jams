@@ -1,0 +1,4 @@
+#Sat Jan 19 19:45:35 AST 2019
+base.0=/Users/fatimafalath/Documents/GitHub/test_project/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
